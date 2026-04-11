@@ -1,3 +1,4 @@
 this si also a test
 the Odin told me to make some changes to test git commands
 okay the odin project told me I can commit and also leave a commit msg in vs studio and apparently msgs can be longer too this is to test that
+psst 
